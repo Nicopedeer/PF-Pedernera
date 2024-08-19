@@ -1,1 +1,2 @@
-Edite el repo de la entrega previa con las correcciones que se me fueron dictadas.
+Proyecto Final
+Curso Desarrollo web - CoderHouse
